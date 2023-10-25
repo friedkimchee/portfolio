@@ -8,8 +8,8 @@
 
 
 section {
-    border: 1px solid red;
-}
+    border: 1px solid rgb(7, 27, 80);
+} 
 
 div {
     border: 1px solid red;
@@ -18,3 +18,23 @@ div {
 #profile2 {
     border-radius: 50%;
 }
+
+.table {
+    border: 2px solid black;
+    border-radius: 50px;
+    
+}
+
+#contact {
+    border: 2px solid black;
+    margin-left: 550px;
+    margin-right: 550px;
+    border-radius: 30px
+}
+
+/*.project {
+    margin-top: 50px;
+    margin-right: 10px;
+    margin-left: 10px;
+    display:inline-block;
+} */
